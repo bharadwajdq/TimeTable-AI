@@ -1,0 +1,5 @@
+{
+  "name": "Smart Timetable Generator Pro",
+  "description": "An advanced AI-powered timetable generation system that handles complex constraints, faculty allocations, and section requirements using a constraint-satisfaction algorithm and Gemini AI for optimization.",
+  "requestFramePermissions": []
+}
